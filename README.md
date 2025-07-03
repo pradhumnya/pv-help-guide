@@ -2,7 +2,7 @@
 
 We’ve migrated our Help Guide to a new location to make it easier for you to find updated resources and best practices.
 
-📍 **New Help Guide:** [https://docs.primevault.com/help-guide](https://docs.primevault.com/help-guide)
+📍 **New Help Guide Link:** [https://docs.primevault.com/help-guide](https://docs.primevault.com/help-guide)
 
 Please save this link for your reference going forward, as all future updates and resources will be maintained here.
 
