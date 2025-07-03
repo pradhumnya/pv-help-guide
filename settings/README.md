@@ -1,5 +1,6 @@
 ---
 description: Configure essential controls for your organization
+hidden: true
 ---
 
 # Settings

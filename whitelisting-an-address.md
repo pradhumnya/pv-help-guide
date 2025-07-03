@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Whitelisting an address
 
 **Address whitelisting Introduction**

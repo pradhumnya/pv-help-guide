@@ -1,25 +1,12 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+# We’ve Moved Our Help Guide 🚀
 
-# PrimeVault Introduction
+We’ve migrated our Help Guide to a new location to make it easier for you to find updated resources and best practices.
 
-PrimeVault is the most advanced institutional crypto wallet and market connectivity infrastructure with a strong focus on enterprise-grade extensibility, scalability, automation efficiency and security.
+📍 **New Help Guide:** [https://docs.primevault.com/help-guide](https://docs.primevault.com/help-guide)
 
-PrimeVault is built using a novel architectural design for private key management that leverages state-of-the-art hardware enclave (TEE) technology and formal verification techniques to power a wide range of user intents and use cases not possible before.
+Please save this link for your reference going forward, as all future updates and resources will be maintained here.
 
-This help guide outlines an overview of products live on our platform along with guides on setting up and using each product/feature.
+If you have any questions or need assistance, feel free to reach out to us anytime.
 
-Please reach out to us in case you need additional help, we love hearing feedback from our customers!
-
-Welcome to PrimeVault!\
+Thanks for being with us,\
+Team PrimeVault

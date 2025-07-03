@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Getting Started
 
 ### Setting up your account

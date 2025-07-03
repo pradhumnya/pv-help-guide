@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Executing trades using Smart Trade
 
 **Smart Trade Introduction**

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Additional Support
 
 Reach out to PrimeVault in case your team is looking for the following

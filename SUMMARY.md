@@ -1,6 +1,7 @@
 # Table of contents
 
-* [PrimeVault Introduction](README.md)
+* [We’ve Moved Our Help Guide 🚀](README.md)
+* [PrimeVault Introduction](<README (1).md>)
 * [PrimeVault Suite of Products](primevault-suite-of-products.md)
 * [Getting Started](getting-started/README.md)
   * [Setting up your account](getting-started/setting-up-your-account/README.md)

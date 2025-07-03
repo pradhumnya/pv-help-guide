@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # PrimeVault Suite of Products
 
 PrimeVault's landscape of products is growing rapidly.&#x20;

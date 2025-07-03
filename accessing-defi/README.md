@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Accessing DeFi
 
 **DeFi Access Introduction**

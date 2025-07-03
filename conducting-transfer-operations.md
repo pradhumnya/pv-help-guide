@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Conducting transfer operations
 
 **Transfer operations Introduction**

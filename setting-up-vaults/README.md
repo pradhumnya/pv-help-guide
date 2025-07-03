@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Setting up Vaults
 
 ### [Core Vault](core-vaults.md)
